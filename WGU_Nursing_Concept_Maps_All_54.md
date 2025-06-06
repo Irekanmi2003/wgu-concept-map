@@ -1,9 +1,10 @@
 # WGU Nursing Concept Maps (All 54 Topics)
-
+---
+---
 
 ## Amputation
 
-```
+
 ### Recognizing Cues
 - Symptom or sign commonly observed in Amputation
 - Lab result or diagnostic indicator
@@ -52,12 +53,12 @@ Amputation involves a pathophysiological process that alters normal function. It
 - Patient demonstrates knowledge of care
 - Lab/vital signs within expected range
 - Reduction in risk of complication or recurrence
-```
 
+---
 
 ## Angina
 
-```
+
 ### Recognizing Cues
 - Symptom or sign commonly observed in Angina
 - Lab result or diagnostic indicator
@@ -106,12 +107,12 @@ Angina involves a pathophysiological process that alters normal function. It can
 - Patient demonstrates knowledge of care
 - Lab/vital signs within expected range
 - Reduction in risk of complication or recurrence
-```
 
+---
 
 ## Angina - actions
 
-```
+
 ### Recognizing Cues
 - Symptom or sign commonly observed in Angina - actions
 - Lab result or diagnostic indicator
@@ -160,12 +161,12 @@ Angina - actions involves a pathophysiological process that alters normal functi
 - Patient demonstrates knowledge of care
 - Lab/vital signs within expected range
 - Reduction in risk of complication or recurrence
-```
 
+---
 
 ## Appendicitis
 
-```
+
 ### Recognizing Cues
 - Symptom or sign commonly observed in Appendicitis
 - Lab result or diagnostic indicator
@@ -214,12 +215,12 @@ Appendicitis involves a pathophysiological process that alters normal function. 
 - Patient demonstrates knowledge of care
 - Lab/vital signs within expected range
 - Reduction in risk of complication or recurrence
-```
 
+---
 
 ## Asthma
 
-```
+
 ### Recognizing Cues
 - Symptom or sign commonly observed in Asthma
 - Lab result or diagnostic indicator
@@ -268,12 +269,12 @@ Asthma involves a pathophysiological process that alters normal function. It can
 - Patient demonstrates knowledge of care
 - Lab/vital signs within expected range
 - Reduction in risk of complication or recurrence
-```
-
+  
+---
 
 ## Athlete
 
-```
+
 ### Recognizing Cues
 - Symptom or sign commonly observed in Athlete
 - Lab result or diagnostic indicator
@@ -322,12 +323,12 @@ Athlete involves a pathophysiological process that alters normal function. It ca
 - Patient demonstrates knowledge of care
 - Lab/vital signs within expected range
 - Reduction in risk of complication or recurrence
-```
 
+---
 
 ## Blood admin-overload
 
-```
+
 ### Recognizing Cues
 - Symptom or sign commonly observed in Blood admin-overload
 - Lab result or diagnostic indicator
@@ -376,12 +377,12 @@ Blood admin-overload involves a pathophysiological process that alters normal fu
 - Patient demonstrates knowledge of care
 - Lab/vital signs within expected range
 - Reduction in risk of complication or recurrence
-```
 
+---
 
 ## Burn
 
-```
+
 ### Recognizing Cues
 - Symptom or sign commonly observed in Burn
 - Lab result or diagnostic indicator
@@ -430,12 +431,12 @@ Burn involves a pathophysiological process that alters normal function. It can b
 - Patient demonstrates knowledge of care
 - Lab/vital signs within expected range
 - Reduction in risk of complication or recurrence
-```
-
+  
+---
 
 ## COPD
 
-```
+
 ### Recognizing Cues
 - Symptom or sign commonly observed in COPD
 - Lab result or diagnostic indicator
@@ -484,12 +485,12 @@ COPD involves a pathophysiological process that alters normal function. It can b
 - Patient demonstrates knowledge of care
 - Lab/vital signs within expected range
 - Reduction in risk of complication or recurrence
-```
-
+  
+---
 
 ## CVA
 
-```
+
 ### Recognizing Cues
 - Symptom or sign commonly observed in CVA
 - Lab result or diagnostic indicator
@@ -538,12 +539,12 @@ CVA involves a pathophysiological process that alters normal function. It can be
 - Patient demonstrates knowledge of care
 - Lab/vital signs within expected range
 - Reduction in risk of complication or recurrence
-```
-
+  
+---
 
 ## Cataract-postop care
 
-```
+
 ### Recognizing Cues
 - Symptom or sign commonly observed in Cataract-postop care
 - Lab result or diagnostic indicator
@@ -592,12 +593,12 @@ Cataract-postop care involves a pathophysiological process that alters normal fu
 - Patient demonstrates knowledge of care
 - Lab/vital signs within expected range
 - Reduction in risk of complication or recurrence
-```
 
+---
 
 ## Cholelithiasis
 
-```
+
 ### Recognizing Cues
 - Symptom or sign commonly observed in Cholelithiasis
 - Lab result or diagnostic indicator
@@ -646,12 +647,12 @@ Cholelithiasis involves a pathophysiological process that alters normal function
 - Patient demonstrates knowledge of care
 - Lab/vital signs within expected range
 - Reduction in risk of complication or recurrence
-```
 
+---
 
 ## CrANng
 
-```
+
 ### Recognizing Cues
 - Symptom or sign commonly observed in CrANng
 - Lab result or diagnostic indicator
@@ -700,12 +701,12 @@ CrANng involves a pathophysiological process that alters normal function. It can
 - Patient demonstrates knowledge of care
 - Lab/vital signs within expected range
 - Reduction in risk of complication or recurrence
-```
-
+  
+---
 
 ## Cushing’s Syndrome
 
-```
+
 ### Recognizing Cues
 - Symptom or sign commonly observed in Cushing’s Syndrome
 - Lab result or diagnostic indicator
@@ -754,12 +755,12 @@ Cushing’s Syndrome involves a pathophysiological process that alters normal fu
 - Patient demonstrates knowledge of care
 - Lab/vital signs within expected range
 - Reduction in risk of complication or recurrence
-```
 
+---
 
 ## DM-long term complications
 
-```
+
 ### Recognizing Cues
 - Symptom or sign commonly observed in DM-long term complications
 - Lab result or diagnostic indicator
@@ -808,12 +809,12 @@ DM-long term complications involves a pathophysiological process that alters nor
 - Patient demonstrates knowledge of care
 - Lab/vital signs within expected range
 - Reduction in risk of complication or recurrence
-```
-
+  
+---
 
 ## DVT
 
-```
+
 ### Recognizing Cues
 - Symptom or sign commonly observed in DVT
 - Lab result or diagnostic indicator
@@ -862,12 +863,12 @@ DVT involves a pathophysiological process that alters normal function. It can be
 - Patient demonstrates knowledge of care
 - Lab/vital signs within expected range
 - Reduction in risk of complication or recurrence
-```
-
+  
+---
 
 ## Dehiscence
 
-```
+
 ### Recognizing Cues
 - Symptom or sign commonly observed in Dehiscence
 - Lab result or diagnostic indicator
@@ -916,12 +917,12 @@ Dehiscence involves a pathophysiological process that alters normal function. It
 - Patient demonstrates knowledge of care
 - Lab/vital signs within expected range
 - Reduction in risk of complication or recurrence
-```
 
+---
 
 ## Diabetes
 
-```
+
 ### Recognizing Cues
 - Symptom or sign commonly observed in Diabetes
 - Lab result or diagnostic indicator
@@ -970,12 +971,12 @@ Diabetes involves a pathophysiological process that alters normal function. It c
 - Patient demonstrates knowledge of care
 - Lab/vital signs within expected range
 - Reduction in risk of complication or recurrence
-```
-
+  
+---
 
 ## Diet-risk colon/rectal cancer
 
-```
+
 ### Recognizing Cues
 - Symptom or sign commonly observed in Diet-risk colon/rectal cancer
 - Lab result or diagnostic indicator
@@ -1078,12 +1079,12 @@ Diverticulosis involves a pathophysiological process that alters normal function
 - Patient demonstrates knowledge of care
 - Lab/vital signs within expected range
 - Reduction in risk of complication or recurrence
-```
-
+  
+---
 
 ## Documentation, Integumentary
 
-```
+
 ### Recognizing Cues
 - Symptom or sign commonly observed in Documentation, Integumentary
 - Lab result or diagnostic indicator
@@ -1132,12 +1133,12 @@ Documentation, Integumentary involves a pathophysiological process that alters n
 - Patient demonstrates knowledge of care
 - Lab/vital signs within expected range
 - Reduction in risk of complication or recurrence
-```
 
+---
 
 ## ESRD - hyperkalemia
 
-```
+
 ### Recognizing Cues
 - Symptom or sign commonly observed in ESRD - hyperkalemia
 - Lab result or diagnostic indicator
@@ -1186,12 +1187,12 @@ ESRD - hyperkalemia involves a pathophysiological process that alters normal fun
 - Patient demonstrates knowledge of care
 - Lab/vital signs within expected range
 - Reduction in risk of complication or recurrence
-```
 
+---
 
 ## Eczema
 
-```
+
 ### Recognizing Cues
 - Symptom or sign commonly observed in Eczema
 - Lab result or diagnostic indicator
@@ -1240,12 +1241,12 @@ Eczema involves a pathophysiological process that alters normal function. It can
 - Patient demonstrates knowledge of care
 - Lab/vital signs within expected range
 - Reduction in risk of complication or recurrence
-```
-
+  
+---
 
 ## Endocrine, Leadership
 
-```
+
 ### Recognizing Cues
 - Symptom or sign commonly observed in Endocrine, Leadership
 - Lab result or diagnostic indicator
@@ -1294,12 +1295,12 @@ Endocrine, Leadership involves a pathophysiological process that alters normal f
 - Patient demonstrates knowledge of care
 - Lab/vital signs within expected range
 - Reduction in risk of complication or recurrence
-```
-
+  
+---
 
 ## Fractures
 
-```
+
 ### Recognizing Cues
 - Symptom or sign commonly observed in Fractures
 - Lab result or diagnostic indicator
@@ -1348,12 +1349,12 @@ Fractures involves a pathophysiological process that alters normal function. It 
 - Patient demonstrates knowledge of care
 - Lab/vital signs within expected range
 - Reduction in risk of complication or recurrence
-```
-
+  
+---
 
 ## Glaucoma
 
-```
+
 ### Recognizing Cues
 - Symptom or sign commonly observed in Glaucoma
 - Lab result or diagnostic indicator
@@ -1402,12 +1403,12 @@ Glaucoma involves a pathophysiological process that alters normal function. It c
 - Patient demonstrates knowledge of care
 - Lab/vital signs within expected range
 - Reduction in risk of complication or recurrence
-```
-
+  
+---
 
 ## Gonorrhea
 
-```
+
 ### Recognizing Cues
 - Symptom or sign commonly observed in Gonorrhea
 - Lab result or diagnostic indicator
@@ -1456,12 +1457,12 @@ Gonorrhea involves a pathophysiological process that alters normal function. It 
 - Patient demonstrates knowledge of care
 - Lab/vital signs within expected range
 - Reduction in risk of complication or recurrence
-```
-
+  
+---
 
 ## Gout
 
-```
+
 ### Recognizing Cues
 - Symptom or sign commonly observed in Gout
 - Lab result or diagnostic indicator
@@ -1510,12 +1511,12 @@ Gout involves a pathophysiological process that alters normal function. It can b
 - Patient demonstrates knowledge of care
 - Lab/vital signs within expected range
 - Reduction in risk of complication or recurrence
-```
 
+---
 
 ## Graves disease
 
-```
+
 ### Recognizing Cues
 - Symptom or sign commonly observed in Graves disease
 - Lab result or diagnostic indicator
@@ -1564,12 +1565,12 @@ Graves disease involves a pathophysiological process that alters normal function
 - Patient demonstrates knowledge of care
 - Lab/vital signs within expected range
 - Reduction in risk of complication or recurrence
-```
-
+  
+---
 
 ## IV ML/HR
 
-```
+
 ### Recognizing Cues
 - Symptom or sign commonly observed in IV ML/HR
 - Lab result or diagnostic indicator
@@ -1618,12 +1619,12 @@ IV ML/HR involves a pathophysiological process that alters normal function. It c
 - Patient demonstrates knowledge of care
 - Lab/vital signs within expected range
 - Reduction in risk of complication or recurrence
-```
-
+  
+---
 
 ## Integumentary
 
-```
+
 ### Recognizing Cues
 - Symptom or sign commonly observed in Integumentary
 - Lab result or diagnostic indicator
@@ -1672,12 +1673,12 @@ Integumentary involves a pathophysiological process that alters normal function.
 - Patient demonstrates knowledge of care
 - Lab/vital signs within expected range
 - Reduction in risk of complication or recurrence
-```
-
+  
+---
 
 ## Meningitis
 
-```
+
 ### Recognizing Cues
 - Symptom or sign commonly observed in Meningitis
 - Lab result or diagnostic indicator
@@ -1726,12 +1727,12 @@ Meningitis involves a pathophysiological process that alters normal function. It
 - Patient demonstrates knowledge of care
 - Lab/vital signs within expected range
 - Reduction in risk of complication or recurrence
-```
-
+  
+---
 
 ## Musculoskeletal
 
-```
+
 ### Recognizing Cues
 - Symptom or sign commonly observed in Musculoskeletal
 - Lab result or diagnostic indicator
@@ -1780,12 +1781,12 @@ Musculoskeletal involves a pathophysiological process that alters normal functio
 - Patient demonstrates knowledge of care
 - Lab/vital signs within expected range
 - Reduction in risk of complication or recurrence
-```
-
+  
+---
 
 ## Musculoskeletal, Teaching
 
-```
+
 ### Recognizing Cues
 - Symptom or sign commonly observed in Musculoskeletal, Teaching
 - Lab result or diagnostic indicator
@@ -1834,12 +1835,12 @@ Musculoskeletal, Teaching involves a pathophysiological process that alters norm
 - Patient demonstrates knowledge of care
 - Lab/vital signs within expected range
 - Reduction in risk of complication or recurrence
-```
-
+  
+---
 
 ## Nephrectomy-postop
 
-```
+
 ### Recognizing Cues
 - Symptom or sign commonly observed in Nephrectomy-postop
 - Lab result or diagnostic indicator
@@ -1888,12 +1889,12 @@ Nephrectomy-postop involves a pathophysiological process that alters normal func
 - Patient demonstrates knowledge of care
 - Lab/vital signs within expected range
 - Reduction in risk of complication or recurrence
-```
 
+---
 
 ## Neurological
 
-```
+
 ### Recognizing Cues
 - Symptom or sign commonly observed in Neurological
 - Lab result or diagnostic indicator
@@ -1942,12 +1943,12 @@ Neurological involves a pathophysiological process that alters normal function. 
 - Patient demonstrates knowledge of care
 - Lab/vital signs within expected range
 - Reduction in risk of complication or recurrence
-```
-
+  
+---
 
 ## Oncology
 
-```
+
 ### Recognizing Cues
 - Symptom or sign commonly observed in Oncology
 - Lab result or diagnostic indicator
@@ -1996,12 +1997,12 @@ Oncology involves a pathophysiological process that alters normal function. It c
 - Patient demonstrates knowledge of care
 - Lab/vital signs within expected range
 - Reduction in risk of complication or recurrence
-```
 
+---
 
 ## Operative, GI/Hepatic, Renal
 
-```
+
 ### Recognizing Cues
 - Symptom or sign commonly observed in Operative, GI/Hepatic, Renal
 - Lab result or diagnostic indicator
@@ -2050,12 +2051,12 @@ Operative, GI/Hepatic, Renal involves a pathophysiological process that alters n
 - Patient demonstrates knowledge of care
 - Lab/vital signs within expected range
 - Reduction in risk of complication or recurrence
-```
 
+---
 
 ## Osteomalacia
 
-```
+
 ### Recognizing Cues
 - Symptom or sign commonly observed in Osteomalacia
 - Lab result or diagnostic indicator
@@ -2104,12 +2105,12 @@ Osteomalacia involves a pathophysiological process that alters normal function. 
 - Patient demonstrates knowledge of care
 - Lab/vital signs within expected range
 - Reduction in risk of complication or recurrence
-```
-
+  
+---
 
 ## Parkinson's-swallowing
 
-```
+
 ### Recognizing Cues
 - Symptom or sign commonly observed in Parkinson's-swallowing
 - Lab result or diagnostic indicator
@@ -2158,12 +2159,13 @@ Parkinson's-swallowing involves a pathophysiological process that alters normal 
 - Patient demonstrates knowledge of care
 - Lab/vital signs within expected range
 - Reduction in risk of complication or recurrence
-```
+
+---
 
 
 ## Peptic ulcer disease-S/S
 
-```
+
 ### Recognizing Cues
 - Symptom or sign commonly observed in Peptic ulcer disease-S/S
 - Lab result or diagnostic indicator
@@ -2212,12 +2214,12 @@ Peptic ulcer disease-S/S involves a pathophysiological process that alters norma
 - Patient demonstrates knowledge of care
 - Lab/vital signs within expected range
 - Reduction in risk of complication or recurrence
-```
-
+  
+---
 
 ## Pernicious anemia
 
-```
+
 ### Recognizing Cues
 - Symptom or sign commonly observed in Pernicious anemia
 - Lab result or diagnostic indicator
@@ -2266,12 +2268,12 @@ Pernicious anemia involves a pathophysiological process that alters normal funct
 - Patient demonstrates knowledge of care
 - Lab/vital signs within expected range
 - Reduction in risk of complication or recurrence
-```
-
+  
+---
 
 ## Preop assessment
 
-```
+
 ### Recognizing Cues
 - Symptom or sign commonly observed in Preop assessment
 - Lab result or diagnostic indicator
@@ -2320,12 +2322,12 @@ Preop assessment involves a pathophysiological process that alters normal functi
 - Patient demonstrates knowledge of care
 - Lab/vital signs within expected range
 - Reduction in risk of complication or recurrence
-```
-
+  
+---
 
 ## Radiation site care
 
-```
+
 ### Recognizing Cues
 - Symptom or sign commonly observed in Radiation site care
 - Lab result or diagnostic indicator
@@ -2374,12 +2376,12 @@ Radiation site care involves a pathophysiological process that alters normal fun
 - Patient demonstrates knowledge of care
 - Lab/vital signs within expected range
 - Reduction in risk of complication or recurrence
-```
-
+  
+---
 
 ## Respiratory, Teaching
 
-```
+
 ### Recognizing Cues
 - Symptom or sign commonly observed in Respiratory, Teaching
 - Lab result or diagnostic indicator
@@ -2428,12 +2430,12 @@ Respiratory, Teaching involves a pathophysiological process that alters normal f
 - Patient demonstrates knowledge of care
 - Lab/vital signs within expected range
 - Reduction in risk of complication or recurrence
-```
-
+  
+---
 
 ## Rheumatoid Arthritis
 
-```
+
 ### Recognizing Cues
 - Symptom or sign commonly observed in Rheumatoid Arthritis
 - Lab result or diagnostic indicator
@@ -2482,12 +2484,12 @@ Rheumatoid Arthritis involves a pathophysiological process that alters normal fu
 - Patient demonstrates knowledge of care
 - Lab/vital signs within expected range
 - Reduction in risk of complication or recurrence
-```
-
+  
+---
 
 ## SIADH
 
-```
+
 ### Recognizing Cues
 - Symptom or sign commonly observed in SIADH
 - Lab result or diagnostic indicator
@@ -2536,12 +2538,12 @@ SIADH involves a pathophysiological process that alters normal function. It can 
 - Patient demonstrates knowledge of care
 - Lab/vital signs within expected range
 - Reduction in risk of complication or recurrence
-```
-
+  
+---
 
 ## Skin cancer-risk
 
-```
+
 ### Recognizing Cues
 - Symptom or sign commonly observed in Skin cancer-risk
 - Lab result or diagnostic indicator
@@ -2590,12 +2592,12 @@ Skin cancer-risk involves a pathophysiological process that alters normal functi
 - Patient demonstrates knowledge of care
 - Lab/vital signs within expected range
 - Reduction in risk of complication or recurrence
-```
-
+  
+---
 
 ## Small bowel obstruction-actions
 
-```
+
 ### Recognizing Cues
 - Symptom or sign commonly observed in Small bowel obstruction-actions
 - Lab result or diagnostic indicator
@@ -2644,12 +2646,12 @@ Small bowel obstruction-actions involves a pathophysiological process that alter
 - Patient demonstrates knowledge of care
 - Lab/vital signs within expected range
 - Reduction in risk of complication or recurrence
-```
 
+---
 
 ## Spinal cord injury
 
-```
+
 ### Recognizing Cues
 - Symptom or sign commonly observed in Spinal cord injury
 - Lab result or diagnostic indicator
@@ -2698,12 +2700,12 @@ Spinal cord injury involves a pathophysiological process that alters normal func
 - Patient demonstrates knowledge of care
 - Lab/vital signs within expected range
 - Reduction in risk of complication or recurrence
-```
 
+---
 
 ## Sputum collection
 
-```
+
 ### Recognizing Cues
 - Symptom or sign commonly observed in Sputum collection
 - Lab result or diagnostic indicator
@@ -2752,12 +2754,12 @@ Sputum collection involves a pathophysiological process that alters normal funct
 - Patient demonstrates knowledge of care
 - Lab/vital signs within expected range
 - Reduction in risk of complication or recurrence
-```
-
+  
+---
 
 ## TURP
 
-```
+
 ### Recognizing Cues
 - Symptom or sign commonly observed in TURP
 - Lab result or diagnostic indicator
@@ -2806,12 +2808,12 @@ TURP involves a pathophysiological process that alters normal function. It can b
 - Patient demonstrates knowledge of care
 - Lab/vital signs within expected range
 - Reduction in risk of complication or recurrence
-```
-
+  
+---
 
 ## Thoracentesis-positioning
 
-```
+
 ### Recognizing Cues
 - Symptom or sign commonly observed in Thoracentesis-positioning
 - Lab result or diagnostic indicator
@@ -2914,12 +2916,12 @@ Transfusion reaction-process involves a pathophysiological process that alters n
 - Patient demonstrates knowledge of care
 - Lab/vital signs within expected range
 - Reduction in risk of complication or recurrence
-```
-
+  
+---
 
 ## Urolithiasis
 
-```
+
 ### Recognizing Cues
 - Symptom or sign commonly observed in Urolithiasis
 - Lab result or diagnostic indicator
