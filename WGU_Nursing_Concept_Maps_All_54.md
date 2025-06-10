@@ -1,760 +1,487 @@
 # WGU Nursing Concept Maps (All 54 Topics)
 ---
----
-
-## Amputation
 
 
-### Recognizing Cues
-- Symptom or sign commonly observed in Amputation
-- Lab result or diagnostic indicator
-- Physical or behavioral manifestation
-- Reported subjective complaint
-- Change in baseline condition or vital signs
+### **1. Amputation**  
+#### **Recognizing Cues**  
+1. Visible partial or complete limb loss.  
+2. Patient reports phantom limb pain (burning, tingling in absent limb).  
+3. Swelling, redness, or warmth at the surgical site.  
+4. Limited range of motion in adjacent joints.  
+5. Emotional distress (tearfulness, withdrawal, or anger).  
 
-### Disease Process / Pathophysiology / Risk Factors
-Amputation involves a pathophysiological process that alters normal function. It can be caused by genetic, environmental, infectious, or lifestyle-related factors.
-- Known risk factor 1
-- Known risk factor 2
-- Lifestyle/behavioral factor
-- Comorbid condition contributing to risk
+#### **Disease Process / Risk Factors**  
+- **Pathophysiology**: Ischemia, trauma, or infection leads to tissue necrosis, necessitating surgical removal. Post-op, nerve endings may misfire (phantom pain).  
+- **Risk Factors**: Diabetes mellitus, peripheral vascular disease, trauma, osteomyelitis.  
 
-### Analyzing Cues / Concerns
+#### **Analyzing Cues**  
+**Supporting**:  
+- History of diabetes/PVD correlates with etiology.  
+- Phantom pain confirms neurological adaptation.  
+- Swelling indicates normal post-op inflammation.  
 
-**Supporting**
-- Symptom strongly correlated with Amputation
-- Diagnostic test confirming suspicion
-- Clinical history aligned with typical onset
+**Concerning**:  
+- Purulent drainage → infection risk.  
+- Refusal to look at stump → body image disturbance.  
+- Immobility → risk of DVT or contractures.  
 
-**Concerning**
-- Sudden worsening or complications
-- Lab or vital abnormality needing action
-- Uncontrolled symptoms or secondary effects
+#### **Prioritizing Hypotheses**  
+1. **Risk for infection** (stump compromised integrity).  
+2. **Impaired physical mobility** (limb loss, pain).  
+3. **Disturbed body image** (grief over loss).  
 
-### Prioritizing Hypotheses
-1. Primary nursing diagnosis relevant to Amputation
-2. Risk for complication or deterioration
-3. Secondary concern related to mental, physical, or social well-being
+#### **Take Actions**  
+1. Assess stump every 4 hours for signs of infection (erythema, odor).  
+2. Teach stump wrapping techniques (figure-eight bandaging) to shape limb for prosthesis.  
+3. Collaborate with physical therapy for gait training and prosthetic fitting.  
+4. Provide counseling and peer support groups for emotional coping.  
 
-### Take Actions
-1. Administer prescribed medication or treatment
-2. Educate patient and/or caregiver about management
-3. Monitor condition closely through assessment or labs
-4. Collaborate with interdisciplinary team for comprehensive care
+#### **Generated Solutions**  
+- **Stump care education** → prevents infection → promotes timely healing.  
+- **Early PT intervention** → reduces contractures → improves independence.  
+- **Emotional support** → enhances acceptance → increases rehab adherence.  
 
-### Generated Solutions
-1. Medication given ⟶ symptom control ⟶ improved function
-2. Education ⟶ better self-care ⟶ reduced readmissions
-3. Close monitoring ⟶ early detection ⟶ timely intervention
-4. Team-based approach ⟶ holistic care ⟶ patient satisfaction
-
-### Evaluation Outcomes
-- Stabilization or improvement of signs and symptoms
-- Patient demonstrates knowledge of care
-- Lab/vital signs within expected range
-- Reduction in risk of complication or recurrence
+#### **Evaluation Outcomes**  
+- Stump heals without signs of infection by week 2.  
+- Patient demonstrates safe transfer techniques with prosthesis.  
+- Verbalizes positive self-perception during counseling sessions.  
 
 ---
 
-## Angina
+### **2. Angina**  
+#### **Recognizing Cues**  
+1. Reports substernal chest pressure (rates 7/10) radiating to left arm.  
+2. Shortness of breath on exertion.  
+3. Diaphoresis and pallor during episode.  
+4. Nausea accompanied by dizziness.  
+5. ECG shows ST-segment depression in leads V4–V6.  
 
+#### **Disease Process / Risk Factors**  
+- **Pathophysiology**: Atherosclerotic plaque rupture → coronary artery vasospasm → myocardial ischemia.  
+- **Risk Factors**: Hypertension, hyperlipidemia, tobacco use, sedentary lifestyle.  
 
-### Recognizing Cues
-- Symptom or sign commonly observed in Angina
-- Lab result or diagnostic indicator
-- Physical or behavioral manifestation
-- Reported subjective complaint
-- Change in baseline condition or vital signs
+#### **Analyzing Cues**  
+**Supporting**:  
+- Classic chest pain description aligns with angina.  
+- ECG changes confirm myocardial ischemia.  
+- Risk factors present in patient history.  
 
-### Disease Process / Pathophysiology / Risk Factors
-Angina involves a pathophysiological process that alters normal function. It can be caused by genetic, environmental, infectious, or lifestyle-related factors.
-- Known risk factor 1
-- Known risk factor 2
-- Lifestyle/behavioral factor
-- Comorbid condition contributing to risk
+**Concerning**:  
+- Pain unrelieved by 3 nitroglycerin doses → STEMI alert.  
+- BP drop to 85/50 → cardiogenic shock risk.  
+- New-onset atrial fibrillation → decreased cardiac output.  
 
-### Analyzing Cues / Concerns
+#### **Prioritizing Hypotheses**  
+1. **Acute pain** related to myocardial ischemia.  
+2. **Decreased cardiac output** due to arrhythmia.  
+3. **Anxiety** from fear of death.  
 
-**Supporting**
-- Symptom strongly correlated with Angina
-- Diagnostic test confirming suspicion
-- Clinical history aligned with typical onset
+#### **Take Actions**  
+1. Administer sublingual nitroglycerin every 5 minutes × 3 doses.  
+2. Initiate continuous cardiac monitoring for arrhythmias.  
+3. Provide supplemental oxygen at 2–4 L/min via nasal cannula.  
+4. Educate on stress reduction (pursed-lip breathing, meditation).  
 
-**Concerning**
-- Sudden worsening or complications
-- Lab or vital abnormality needing action
-- Uncontrolled symptoms or secondary effects
+#### **Generated Solutions**  
+- **Nitroglycerin** → coronary vasodilation → pain relief within 15 minutes.  
+- **Oxygen therapy** → increases myocardial oxygenation → reduces ischemic burden.  
+- **Anxiety management** → lowers catecholamines → decreases cardiac workload.  
 
-### Prioritizing Hypotheses
-1. Primary nursing diagnosis relevant to Angina
-2. Risk for complication or deterioration
-3. Secondary concern related to mental, physical, or social well-being
-
-### Take Actions
-1. Administer prescribed medication or treatment
-2. Educate patient and/or caregiver about management
-3. Monitor condition closely through assessment or labs
-4. Collaborate with interdisciplinary team for comprehensive care
-
-### Generated Solutions
-1. Medication given ⟶ symptom control ⟶ improved function
-2. Education ⟶ better self-care ⟶ reduced readmissions
-3. Close monitoring ⟶ early detection ⟶ timely intervention
-4. Team-based approach ⟶ holistic care ⟶ patient satisfaction
-
-### Evaluation Outcomes
-- Stabilization or improvement of signs and symptoms
-- Patient demonstrates knowledge of care
-- Lab/vital signs within expected range
-- Reduction in risk of complication or recurrence
+#### **Evaluation Outcomes**  
+- Reports pain reduced to 2/10 after interventions.  
+- Maintains sinus rhythm with HR 60–80 bpm.  
+- Demonstrates relaxation techniques correctly.  
 
 ---
 
-## Angina - actions
+### **3. Appendicitis**  
+#### **Recognizing Cues**  
+1. Sharp RLQ pain localized to McBurney’s point.  
+2. Anorexia and vomiting bilious fluid.  
+3. Low-grade fever (100.4°F).  
+4. Rebound tenderness and guarding on palpation.  
+5. WBC count 14,000/mm³ with left shift.  
 
+#### **Disease Process / Risk Factors**  
+- **Pathophysiology**: Fecalith obstructs appendix → bacterial overgrowth → inflammation → rupture risk.  
+- **Risk Factors**: Age 10–30, male sex, familial history.  
 
-### Recognizing Cues
-- Symptom or sign commonly observed in Angina - actions
-- Lab result or diagnostic indicator
-- Physical or behavioral manifestation
-- Reported subjective complaint
-- Change in baseline condition or vital signs
+#### **Analyzing Cues**  
+**Supporting**:  
+- RLQ pain + vomiting → consistent with appendicitis.  
+- WBC elevation indicates infection.  
 
-### Disease Process / Pathophysiology / Risk Factors
-Angina - actions involves a pathophysiological process that alters normal function. It can be caused by genetic, environmental, infectious, or lifestyle-related factors.
-- Known risk factor 1
-- Known risk factor 2
-- Lifestyle/behavioral factor
-- Comorbid condition contributing to risk
+**Concerning**:  
+- Sudden pain cessation → possible rupture.  
+- Rigid abdomen → peritonitis suspicion.  
 
-### Analyzing Cues / Concerns
+#### **Prioritizing Hypotheses**  
+1. **Acute pain** from visceral inflammation.  
+2. **Risk for infection** due to potential rupture.  
+3. **Fluid volume deficit** from NPO status/vomiting.  
 
-**Supporting**
-- Symptom strongly correlated with Angina - actions
-- Diagnostic test confirming suspicion
-- Clinical history aligned with typical onset
+#### **Take Actions**  
+1. Administer IV cefoxitin (pre-op antibiotic).  
+2. Monitor for rupture signs (tachycardia, fever spike).  
+3. Keep NPO and maintain IV lactated Ringer’s at 75 mL/hr.  
+4. Position in Fowler’s to localize infection if ruptured.  
 
-**Concerning**
-- Sudden worsening or complications
-- Lab or vital abnormality needing action
-- Uncontrolled symptoms or secondary effects
+#### **Generated Solutions**  
+- **Antibiotics** → reduce bacterial load → prevent sepsis.  
+- **NPO status** → prepares for emergent surgery.  
 
-### Prioritizing Hypotheses
-1. Primary nursing diagnosis relevant to Angina - actions
-2. Risk for complication or deterioration
-3. Secondary concern related to mental, physical, or social well-being
+#### **Evaluation Outcomes**  
+- Pain controlled with IV morphine pre-op.  
+- Surgery completed within 6 hours of admission.  
+- Post-op afebrile with WBC trending down.  
 
-### Take Actions
-1. Administer prescribed medication or treatment
-2. Educate patient and/or caregiver about management
-3. Monitor condition closely through assessment or labs
-4. Collaborate with interdisciplinary team for comprehensive care
+--- 
 
-### Generated Solutions
-1. Medication given ⟶ symptom control ⟶ improved function
-2. Education ⟶ better self-care ⟶ reduced readmissions
-3. Close monitoring ⟶ early detection ⟶ timely intervention
-4. Team-based approach ⟶ holistic care ⟶ patient satisfaction
+### **4. Athlete (Sports Injury Focus)**  
+#### **Recognizing Cues**  
+1. Swelling/ecchymosis at injury site (e.g., ankle, knee)  
+2. Limited range of motion  
+3. Pain rated 6/10 on movement  
+4. Crepitus with joint manipulation  
+5. Reports "popping" sound at time of injury  
 
-### Evaluation Outcomes
-- Stabilization or improvement of signs and symptoms
-- Patient demonstrates knowledge of care
-- Lab/vital signs within expected range
-- Reduction in risk of complication or recurrence
+#### **Disease Process / Risk Factors**  
+- **Pathophysiology**: Acute trauma (sprain/strain) or overuse → tissue damage → inflammation  
+- **Risk Factors**: Poor conditioning, improper technique, lack of warm-up  
 
----
+#### **Analyzing Cues**  
+**Supporting**:  
+1. Mechanism of injury (e.g., twisting motion)  
+2. Immediate swelling → acute inflammation  
+3. Crepitus suggests possible fracture  
 
-## Appendicitis
+**Concerning**:  
+1. Inability to bear weight → fracture risk  
+2. Delayed capillary refill >3 sec → vascular compromise  
+3. Numbness distal to injury → nerve damage  
 
+#### **Prioritizing Hypotheses**  
+1. Acute pain  
+2. Impaired mobility  
+3. Risk for complications (compartment syndrome)  
 
-### Recognizing Cues
-- Symptom or sign commonly observed in Appendicitis
-- Lab result or diagnostic indicator
-- Physical or behavioral manifestation
-- Reported subjective complaint
-- Change in baseline condition or vital signs
+#### **Take Actions**  
+1. Apply RICE protocol (Rest, Ice, Compression, Elevation)  
+2. Administer NSAIDs (ibuprofen 400mg PO)  
+3. Refer for X-ray/MRI if fracture suspected  
+4. Teach proper stretching techniques  
 
-### Disease Process / Pathophysiology / Risk Factors
-Appendicitis involves a pathophysiological process that alters normal function. It can be caused by genetic, environmental, infectious, or lifestyle-related factors.
-- Known risk factor 1
-- Known risk factor 2
-- Lifestyle/behavioral factor
-- Comorbid condition contributing to risk
+#### **Generated Solutions**  
+- **RICE** → reduces swelling → pain relief  
+- **NSAIDs** → decrease prostaglandins → less inflammation  
 
-### Analyzing Cues / Concerns
-
-**Supporting**
-- Symptom strongly correlated with Appendicitis
-- Diagnostic test confirming suspicion
-- Clinical history aligned with typical onset
-
-**Concerning**
-- Sudden worsening or complications
-- Lab or vital abnormality needing action
-- Uncontrolled symptoms or secondary effects
-
-### Prioritizing Hypotheses
-1. Primary nursing diagnosis relevant to Appendicitis
-2. Risk for complication or deterioration
-3. Secondary concern related to mental, physical, or social well-being
-
-### Take Actions
-1. Administer prescribed medication or treatment
-2. Educate patient and/or caregiver about management
-3. Monitor condition closely through assessment or labs
-4. Collaborate with interdisciplinary team for comprehensive care
-
-### Generated Solutions
-1. Medication given ⟶ symptom control ⟶ improved function
-2. Education ⟶ better self-care ⟶ reduced readmissions
-3. Close monitoring ⟶ early detection ⟶ timely intervention
-4. Team-based approach ⟶ holistic care ⟶ patient satisfaction
-
-### Evaluation Outcomes
-- Stabilization or improvement of signs and symptoms
-- Patient demonstrates knowledge of care
-- Lab/vital signs within expected range
-- Reduction in risk of complication or recurrence
+#### **Evaluation Outcomes**  
+- Pain reduced to 2/10 within 48 hours  
+- Able to ambulate with minimal assistance  
+- No signs of neurovascular compromise  
 
 ---
 
-## Asthma
+### **5. Blood Admin-Overload**  
+#### **Recognizing Cues**  
+1. Dyspnea (RR 28/min)  
+2. Crackles in lung bases  
+3. JVD +2  
+4. BP 170/90 mmHg  
+5. Restlessness  
 
+#### **Disease Process / Risk Factors**  
+- **Pathophysiology**: Rapid volume expansion → increased hydrostatic pressure → pulmonary edema  
+- **Risk Factors**: CHF, renal failure, rapid transfusion rates  
 
-### Recognizing Cues
-- Symptom or sign commonly observed in Asthma
-- Lab result or diagnostic indicator
-- Physical or behavioral manifestation
-- Reported subjective complaint
-- Change in baseline condition or vital signs
+#### **Analyzing Cues**  
+**Supporting**:  
+1. Recent blood transfusion  
+2. Bilateral crackles → fluid overload  
+3. History of CHF  
 
-### Disease Process / Pathophysiology / Risk Factors
-Asthma involves a pathophysiological process that alters normal function. It can be caused by genetic, environmental, infectious, or lifestyle-related factors.
-- Known risk factor 1
-- Known risk factor 2
-- Lifestyle/behavioral factor
-- Comorbid condition contributing to risk
+**Concerning**:  
+1. SpO2 dropping to 88% → hypoxia  
+2. New S3 heart sound → ventricular strain  
 
-### Analyzing Cues / Concerns
+#### **Prioritizing Hypotheses**  
+1. Fluid volume excess  
+2. Impaired gas exchange  
+3. Anxiety  
 
-**Supporting**
-- Symptom strongly correlated with Asthma
-- Diagnostic test confirming suspicion
-- Clinical history aligned with typical onset
+#### **Take Actions**  
+1. Stop transfusion immediately  
+2. Administer furosemide 40mg IV  
+3. Position in high-Fowler's  
+4. Apply supplemental O2 (non-rebreather mask)  
 
-**Concerning**
-- Sudden worsening or complications
-- Lab or vital abnormality needing action
-- Uncontrolled symptoms or secondary effects
+#### **Generated Solutions**  
+- **Diuretics** → reduce circulatory volume → relieve pulmonary congestion  
+- **Oxygen** → improves tissue perfusion  
 
-### Prioritizing Hypotheses
-1. Primary nursing diagnosis relevant to Asthma
-2. Risk for complication or deterioration
-3. Secondary concern related to mental, physical, or social well-being
-
-### Take Actions
-1. Administer prescribed medication or treatment
-2. Educate patient and/or caregiver about management
-3. Monitor condition closely through assessment or labs
-4. Collaborate with interdisciplinary team for comprehensive care
-
-### Generated Solutions
-1. Medication given ⟶ symptom control ⟶ improved function
-2. Education ⟶ better self-care ⟶ reduced readmissions
-3. Close monitoring ⟶ early detection ⟶ timely intervention
-4. Team-based approach ⟶ holistic care ⟶ patient satisfaction
-
-### Evaluation Outcomes
-- Stabilization or improvement of signs and symptoms
-- Patient demonstrates knowledge of care
-- Lab/vital signs within expected range
-- Reduction in risk of complication or recurrence
-  
----
-
-## Athlete
-
-
-### Recognizing Cues
-- Symptom or sign commonly observed in Athlete
-- Lab result or diagnostic indicator
-- Physical or behavioral manifestation
-- Reported subjective complaint
-- Change in baseline condition or vital signs
-
-### Disease Process / Pathophysiology / Risk Factors
-Athlete involves a pathophysiological process that alters normal function. It can be caused by genetic, environmental, infectious, or lifestyle-related factors.
-- Known risk factor 1
-- Known risk factor 2
-- Lifestyle/behavioral factor
-- Comorbid condition contributing to risk
-
-### Analyzing Cues / Concerns
-
-**Supporting**
-- Symptom strongly correlated with Athlete
-- Diagnostic test confirming suspicion
-- Clinical history aligned with typical onset
-
-**Concerning**
-- Sudden worsening or complications
-- Lab or vital abnormality needing action
-- Uncontrolled symptoms or secondary effects
-
-### Prioritizing Hypotheses
-1. Primary nursing diagnosis relevant to Athlete
-2. Risk for complication or deterioration
-3. Secondary concern related to mental, physical, or social well-being
-
-### Take Actions
-1. Administer prescribed medication or treatment
-2. Educate patient and/or caregiver about management
-3. Monitor condition closely through assessment or labs
-4. Collaborate with interdisciplinary team for comprehensive care
-
-### Generated Solutions
-1. Medication given ⟶ symptom control ⟶ improved function
-2. Education ⟶ better self-care ⟶ reduced readmissions
-3. Close monitoring ⟶ early detection ⟶ timely intervention
-4. Team-based approach ⟶ holistic care ⟶ patient satisfaction
-
-### Evaluation Outcomes
-- Stabilization or improvement of signs and symptoms
-- Patient demonstrates knowledge of care
-- Lab/vital signs within expected range
-- Reduction in risk of complication or recurrence
+#### **Evaluation Outcomes**  
+- Crackles diminished within 1 hour  
+- Urine output >30 mL/hr post-diuretic  
+- SpO2 maintained ≥94%  
 
 ---
 
-## Blood admin-overload
+### **6. Burn (Partial Thickness)**  
+#### **Recognizing Cues**  
+1. Blistered, weeping wounds on 15% TBSA  
+2. Pain rated 8/10  
+3. Tachycardia (HR 112)  
+4. Skin tightness across chest  
+5. Anxiety about scarring  
 
+#### **Disease Process / Risk Factors**  
+- **Pathophysiology**: Thermal injury → protein denaturation → inflammatory response  
+- **Risk Factors**: Flammable materials, lack of smoke detectors  
 
-### Recognizing Cues
-- Symptom or sign commonly observed in Blood admin-overload
-- Lab result or diagnostic indicator
-- Physical or behavioral manifestation
-- Reported subjective complaint
-- Change in baseline condition or vital signs
+#### **Analyzing Cues**  
+**Supporting**:  
+1. Blister formation confirms partial thickness  
+2. Tachycardia due to pain/stress response  
 
-### Disease Process / Pathophysiology / Risk Factors
-Blood admin-overload involves a pathophysiological process that alters normal function. It can be caused by genetic, environmental, infectious, or lifestyle-related factors.
-- Known risk factor 1
-- Known risk factor 2
-- Lifestyle/behavioral factor
-- Comorbid condition contributing to risk
+**Concerning**:  
+1. Circumferential chest burns → restrictive breathing  
+2. Urine output <30 mL/hr → hypovolemia  
 
-### Analyzing Cues / Concerns
+#### **Prioritizing Hypotheses**  
+1. Impaired skin integrity  
+2. Fluid volume deficit  
+3. Risk for infection  
 
-**Supporting**
-- Symptom strongly correlated with Blood admin-overload
-- Diagnostic test confirming suspicion
-- Clinical history aligned with typical onset
+#### **Take Actions**  
+1. Initiate Parkland formula fluids (4mL x kg x %TBSA)  
+2. Apply silver sulfadiazine to wounds  
+3. Monitor for compartment syndrome  
+4. Provide tetanus prophylaxis  
 
-**Concerning**
-- Sudden worsening or complications
-- Lab or vital abnormality needing action
-- Uncontrolled symptoms or secondary effects
+#### **Generated Solutions**  
+- **Fluid resuscitation** → maintains perfusion → prevents shock  
+- **Topical antibiotics** → prevent Pseudomonas infection  
 
-### Prioritizing Hypotheses
-1. Primary nursing diagnosis relevant to Blood admin-overload
-2. Risk for complication or deterioration
-3. Secondary concern related to mental, physical, or social well-being
-
-### Take Actions
-1. Administer prescribed medication or treatment
-2. Educate patient and/or caregiver about management
-3. Monitor condition closely through assessment or labs
-4. Collaborate with interdisciplinary team for comprehensive care
-
-### Generated Solutions
-1. Medication given ⟶ symptom control ⟶ improved function
-2. Education ⟶ better self-care ⟶ reduced readmissions
-3. Close monitoring ⟶ early detection ⟶ timely intervention
-4. Team-based approach ⟶ holistic care ⟶ patient satisfaction
-
-### Evaluation Outcomes
-- Stabilization or improvement of signs and symptoms
-- Patient demonstrates knowledge of care
-- Lab/vital signs within expected range
-- Reduction in risk of complication or recurrence
+#### **Evaluation Outcomes**  
+- UOP maintained at 50 mL/hr  
+- No signs of infection at 72 hours  
+- Pain controlled with scheduled opioids  
 
 ---
 
-## Burn
+### **7. COPD**  
+#### **Recognizing Cues**  
+1. Barrel chest  
+2. Prolonged expiratory phase  
+3. Pursed-lip breathing  
+4. SpO2 89% on room air  
+5. Reports 40-pack-year smoking history  
 
+#### **Disease Process / Risk Factors**  
+- **Pathophysiology**: Chronic inflammation → alveolar destruction (emphysema) + airway remodeling (chronic bronchitis)  
+- **Risk Factors**: Smoking, occupational dust exposure, alpha-1 antitrypsin deficiency  
 
-### Recognizing Cues
-- Symptom or sign commonly observed in Burn
-- Lab result or diagnostic indicator
-- Physical or behavioral manifestation
-- Reported subjective complaint
-- Change in baseline condition or vital signs
+#### **Analyzing Cues**  
+**Supporting**:  
+1. Smoking history confirms etiology  
+2. Barrel chest → air trapping  
 
-### Disease Process / Pathophysiology / Risk Factors
-Burn involves a pathophysiological process that alters normal function. It can be caused by genetic, environmental, infectious, or lifestyle-related factors.
-- Known risk factor 1
-- Known risk factor 2
-- Lifestyle/behavioral factor
-- Comorbid condition contributing to risk
+**Concerning**:  
+1. SpO2 <90% → respiratory failure risk  
+2. Use of accessory muscles → fatigue potential  
 
-### Analyzing Cues / Concerns
+#### **Prioritizing Hypotheses**  
+1. Impaired gas exchange  
+2. Ineffective airway clearance  
+3. Activity intolerance  
 
-**Supporting**
-- Symptom strongly correlated with Burn
-- Diagnostic test confirming suspicion
-- Clinical history aligned with typical onset
+#### **Take Actions**  
+1. Administer tiotropium (Spiriva) via DPI  
+2. Teach diaphragmatic breathing  
+3. Initiate pulmonary rehab referral  
+4. Vaccinate against influenza/pneumonia  
 
-**Concerning**
-- Sudden worsening or complications
-- Lab or vital abnormality needing action
-- Uncontrolled symptoms or secondary effects
+#### **Generated Solutions**  
+- **Bronchodilators** → reduce air trapping → improve FEV1  
+- **Breathing techniques** → decrease respiratory rate → better oxygenation  
 
-### Prioritizing Hypotheses
-1. Primary nursing diagnosis relevant to Burn
-2. Risk for complication or deterioration
-3. Secondary concern related to mental, physical, or social well-being
-
-### Take Actions
-1. Administer prescribed medication or treatment
-2. Educate patient and/or caregiver about management
-3. Monitor condition closely through assessment or labs
-4. Collaborate with interdisciplinary team for comprehensive care
-
-### Generated Solutions
-1. Medication given ⟶ symptom control ⟶ improved function
-2. Education ⟶ better self-care ⟶ reduced readmissions
-3. Close monitoring ⟶ early detection ⟶ timely intervention
-4. Team-based approach ⟶ holistic care ⟶ patient satisfaction
-
-### Evaluation Outcomes
-- Stabilization or improvement of signs and symptoms
-- Patient demonstrates knowledge of care
-- Lab/vital signs within expected range
-- Reduction in risk of complication or recurrence
-  
----
-
-## COPD
-
-
-### Recognizing Cues
-- Symptom or sign commonly observed in COPD
-- Lab result or diagnostic indicator
-- Physical or behavioral manifestation
-- Reported subjective complaint
-- Change in baseline condition or vital signs
-
-### Disease Process / Pathophysiology / Risk Factors
-COPD involves a pathophysiological process that alters normal function. It can be caused by genetic, environmental, infectious, or lifestyle-related factors.
-- Known risk factor 1
-- Known risk factor 2
-- Lifestyle/behavioral factor
-- Comorbid condition contributing to risk
-
-### Analyzing Cues / Concerns
-
-**Supporting**
-- Symptom strongly correlated with COPD
-- Diagnostic test confirming suspicion
-- Clinical history aligned with typical onset
-
-**Concerning**
-- Sudden worsening or complications
-- Lab or vital abnormality needing action
-- Uncontrolled symptoms or secondary effects
-
-### Prioritizing Hypotheses
-1. Primary nursing diagnosis relevant to COPD
-2. Risk for complication or deterioration
-3. Secondary concern related to mental, physical, or social well-being
-
-### Take Actions
-1. Administer prescribed medication or treatment
-2. Educate patient and/or caregiver about management
-3. Monitor condition closely through assessment or labs
-4. Collaborate with interdisciplinary team for comprehensive care
-
-### Generated Solutions
-1. Medication given ⟶ symptom control ⟶ improved function
-2. Education ⟶ better self-care ⟶ reduced readmissions
-3. Close monitoring ⟶ early detection ⟶ timely intervention
-4. Team-based approach ⟶ holistic care ⟶ patient satisfaction
-
-### Evaluation Outcomes
-- Stabilization or improvement of signs and symptoms
-- Patient demonstrates knowledge of care
-- Lab/vital signs within expected range
-- Reduction in risk of complication or recurrence
-  
----
-
-## CVA
-
-
-### Recognizing Cues
-- Symptom or sign commonly observed in CVA
-- Lab result or diagnostic indicator
-- Physical or behavioral manifestation
-- Reported subjective complaint
-- Change in baseline condition or vital signs
-
-### Disease Process / Pathophysiology / Risk Factors
-CVA involves a pathophysiological process that alters normal function. It can be caused by genetic, environmental, infectious, or lifestyle-related factors.
-- Known risk factor 1
-- Known risk factor 2
-- Lifestyle/behavioral factor
-- Comorbid condition contributing to risk
-
-### Analyzing Cues / Concerns
-
-**Supporting**
-- Symptom strongly correlated with CVA
-- Diagnostic test confirming suspicion
-- Clinical history aligned with typical onset
-
-**Concerning**
-- Sudden worsening or complications
-- Lab or vital abnormality needing action
-- Uncontrolled symptoms or secondary effects
-
-### Prioritizing Hypotheses
-1. Primary nursing diagnosis relevant to CVA
-2. Risk for complication or deterioration
-3. Secondary concern related to mental, physical, or social well-being
-
-### Take Actions
-1. Administer prescribed medication or treatment
-2. Educate patient and/or caregiver about management
-3. Monitor condition closely through assessment or labs
-4. Collaborate with interdisciplinary team for comprehensive care
-
-### Generated Solutions
-1. Medication given ⟶ symptom control ⟶ improved function
-2. Education ⟶ better self-care ⟶ reduced readmissions
-3. Close monitoring ⟶ early detection ⟶ timely intervention
-4. Team-based approach ⟶ holistic care ⟶ patient satisfaction
-
-### Evaluation Outcomes
-- Stabilization or improvement of signs and symptoms
-- Patient demonstrates knowledge of care
-- Lab/vital signs within expected range
-- Reduction in risk of complication or recurrence
-  
----
-
-## Cataract-postop care
-
-
-### Recognizing Cues
-- Symptom or sign commonly observed in Cataract-postop care
-- Lab result or diagnostic indicator
-- Physical or behavioral manifestation
-- Reported subjective complaint
-- Change in baseline condition or vital signs
-
-### Disease Process / Pathophysiology / Risk Factors
-Cataract-postop care involves a pathophysiological process that alters normal function. It can be caused by genetic, environmental, infectious, or lifestyle-related factors.
-- Known risk factor 1
-- Known risk factor 2
-- Lifestyle/behavioral factor
-- Comorbid condition contributing to risk
-
-### Analyzing Cues / Concerns
-
-**Supporting**
-- Symptom strongly correlated with Cataract-postop care
-- Diagnostic test confirming suspicion
-- Clinical history aligned with typical onset
-
-**Concerning**
-- Sudden worsening or complications
-- Lab or vital abnormality needing action
-- Uncontrolled symptoms or secondary effects
-
-### Prioritizing Hypotheses
-1. Primary nursing diagnosis relevant to Cataract-postop care
-2. Risk for complication or deterioration
-3. Secondary concern related to mental, physical, or social well-being
-
-### Take Actions
-1. Administer prescribed medication or treatment
-2. Educate patient and/or caregiver about management
-3. Monitor condition closely through assessment or labs
-4. Collaborate with interdisciplinary team for comprehensive care
-
-### Generated Solutions
-1. Medication given ⟶ symptom control ⟶ improved function
-2. Education ⟶ better self-care ⟶ reduced readmissions
-3. Close monitoring ⟶ early detection ⟶ timely intervention
-4. Team-based approach ⟶ holistic care ⟶ patient satisfaction
-
-### Evaluation Outcomes
-- Stabilization or improvement of signs and symptoms
-- Patient demonstrates knowledge of care
-- Lab/vital signs within expected range
-- Reduction in risk of complication or recurrence
+#### **Evaluation Outcomes**  
+- SpO2 ≥92% with ambulation  
+- Demonstrates proper inhaler technique  
+- Reports reduced dyspnea during ADLs  
 
 ---
 
-## Cholelithiasis
+### **8. CVA (Ischemic Stroke)**  
+#### **Recognizing Cues**  
+1. Left-sided facial droop  
+2. Right arm weakness (2/5 strength)  
+3. Expressive aphasia  
+4. NIH Stroke Scale score: 8  
+5. BP 188/94 mmHg  
 
+#### **Disease Process / Risk Factors**  
+- **Pathophysiology**: Thrombus occludes MCA → cerebral ischemia → cytotoxic edema  
+- **Risk Factors**: A-fib, hypertension, diabetes, smoking  
 
-### Recognizing Cues
-- Symptom or sign commonly observed in Cholelithiasis
-- Lab result or diagnostic indicator
-- Physical or behavioral manifestation
-- Reported subjective complaint
-- Change in baseline condition or vital signs
+#### **Analyzing Cues**  
+**Supporting**:  
+1. FAST-positive symptoms (Face, Arm, Speech)  
+2. NIHSS confirms moderate stroke  
+3. Known A-fib on warfarin (INR subtherapeutic)  
 
-### Disease Process / Pathophysiology / Risk Factors
-Cholelithiasis involves a pathophysiological process that alters normal function. It can be caused by genetic, environmental, infectious, or lifestyle-related factors.
-- Known risk factor 1
-- Known risk factor 2
-- Lifestyle/behavioral factor
-- Comorbid condition contributing to risk
+**Concerning**:  
+1. BP >185 → tPA contraindication risk  
+2. Gag reflex absent → aspiration risk  
 
-### Analyzing Cues / Concerns
+#### **Prioritizing Hypotheses**  
+1. Impaired physical mobility  
+2. Risk for aspiration  
+3. Unilateral neglect  
 
-**Supporting**
-- Symptom strongly correlated with Cholelithiasis
-- Diagnostic test confirming suspicion
-- Clinical history aligned with typical onset
+#### **Take Actions**  
+1. Maintain head of bed at 30°  
+2. Initiate dysphagia precautions (NPO until swallow eval)  
+3. Collaborate with PT for early mobilization  
+4. Monitor for hemorrhagic conversion  
 
-**Concerning**
-- Sudden worsening or complications
-- Lab or vital abnormality needing action
-- Uncontrolled symptoms or secondary effects
+#### **Generated Solutions**  
+- **Elevated HOB** → reduces ICP → prevents further injury  
+- **Swallow screening** → prevents aspiration pneumonia  
 
-### Prioritizing Hypotheses
-1. Primary nursing diagnosis relevant to Cholelithiasis
-2. Risk for complication or deterioration
-3. Secondary concern related to mental, physical, or social well-being
-
-### Take Actions
-1. Administer prescribed medication or treatment
-2. Educate patient and/or caregiver about management
-3. Monitor condition closely through assessment or labs
-4. Collaborate with interdisciplinary team for comprehensive care
-
-### Generated Solutions
-1. Medication given ⟶ symptom control ⟶ improved function
-2. Education ⟶ better self-care ⟶ reduced readmissions
-3. Close monitoring ⟶ early detection ⟶ timely intervention
-4. Team-based approach ⟶ holistic care ⟶ patient satisfaction
-
-### Evaluation Outcomes
-- Stabilization or improvement of signs and symptoms
-- Patient demonstrates knowledge of care
-- Lab/vital signs within expected range
-- Reduction in risk of complication or recurrence
+#### **Evaluation Outcomes**  
+- Passes swallow eval within 24 hours  
+- Demonstrates left-side awareness during PT  
+- BP stabilized to <180/110  
 
 ---
 
-## CrANng
+### **9. Cataract Post-Op Care**  
+#### **Recognizing Cues**  
+1. Reports "hazy vision" improvement  
+2. Mild eye itching  
+3. Tearing in operative eye  
+4. Photophobia  
+5. Incision site intact  
 
+#### **Disease Process / Risk Factors**  
+- **Pathophysiology**: Lens protein denaturation → opacity → light scattering  
+- **Risk Factors**: Aging, UV exposure, diabetes  
 
-### Recognizing Cues
-- Symptom or sign commonly observed in CrANng
-- Lab result or diagnostic indicator
-- Physical or behavioral manifestation
-- Reported subjective complaint
-- Change in baseline condition or vital signs
+#### **Analyzing Cues**  
+**Supporting**:  
+1. Improved vision confirms successful extraction  
+2. Mild itching expected post-op  
 
-### Disease Process / Pathophysiology / Risk Factors
-CrANng involves a pathophysiological process that alters normal function. It can be caused by genetic, environmental, infectious, or lifestyle-related factors.
-- Known risk factor 1
-- Known risk factor 2
-- Lifestyle/behavioral factor
-- Comorbid condition contributing to risk
+**Concerning**:  
+1. Sudden pain → endophthalmitis risk  
+2. Vision loss → retinal detachment  
 
-### Analyzing Cues / Concerns
+#### **Prioritizing Hypotheses**  
+1. Risk for infection  
+2. Sensory perception alteration  
+3. Knowledge deficit  
 
-**Supporting**
-- Symptom strongly correlated with CrANng
-- Diagnostic test confirming suspicion
-- Clinical history aligned with typical onset
+#### **Take Actions**  
+1. Teach eyedrop administration (antibiotic + steroid)  
+2. Instruct to wear eye shield at night  
+3. Avoid bending/Valsalva × 2 weeks  
+4. Schedule 1-week follow-up  
 
-**Concerning**
-- Sudden worsening or complications
-- Lab or vital abnormality needing action
-- Uncontrolled symptoms or secondary effects
+#### **Generated Solutions**  
+- **Eye shield** → prevents trauma → protects incision  
+- **Avoiding strain** → prevents IOP spikes  
 
-### Prioritizing Hypotheses
-1. Primary nursing diagnosis relevant to CrANng
-2. Risk for complication or deterioration
-3. Secondary concern related to mental, physical, or social well-being
+#### **Evaluation Outcomes**  
+- No signs of infection at follow-up  
+- Correctly administers eyedrops  
+- Visual acuity improves to 20/40  
 
-### Take Actions
-1. Administer prescribed medication or treatment
-2. Educate patient and/or caregiver about management
-3. Monitor condition closely through assessment or labs
-4. Collaborate with interdisciplinary team for comprehensive care
-
-### Generated Solutions
-1. Medication given ⟶ symptom control ⟶ improved function
-2. Education ⟶ better self-care ⟶ reduced readmissions
-3. Close monitoring ⟶ early detection ⟶ timely intervention
-4. Team-based approach ⟶ holistic care ⟶ patient satisfaction
-
-### Evaluation Outcomes
-- Stabilization or improvement of signs and symptoms
-- Patient demonstrates knowledge of care
-- Lab/vital signs within expected range
-- Reduction in risk of complication or recurrence
-  
 ---
 
-## Cushing’s Syndrome
+### **10. Cholelithiasis**  
+#### **Recognizing Cues**  
+1. RUQ pain after fatty meals  
+2. Positive Murphy's sign  
+3. Nausea/vomiting bilious fluid  
+4. Ultrasound shows 1.2cm gallstone  
+5. Elevated LFTs (ALT 68 U/L)  
 
+#### **Disease Process / Risk Factors**  
+- **Pathophysiology**: Cholesterol supersaturation → stone formation → biliary obstruction  
+- **Risk Factors**: Female, forty, fertile, fat, fair (5 F's)  
 
-### Recognizing Cues
-- Symptom or sign commonly observed in Cushing’s Syndrome
-- Lab result or diagnostic indicator
-- Physical or behavioral manifestation
-- Reported subjective complaint
-- Change in baseline condition or vital signs
+#### **Analyzing Cues**  
+**Supporting**:  
+1. Classic colicky pain pattern  
+2. Imaging confirms diagnosis  
 
-### Disease Process / Pathophysiology / Risk Factors
-Cushing’s Syndrome involves a pathophysiological process that alters normal function. It can be caused by genetic, environmental, infectious, or lifestyle-related factors.
-- Known risk factor 1
-- Known risk factor 2
-- Lifestyle/behavioral factor
-- Comorbid condition contributing to risk
+**Concerning**:  
+1. WBC 14,000 → cholecystitis  
+2. Jaundice → common bile duct obstruction  
 
-### Analyzing Cues / Concerns
+#### **Prioritizing Hypotheses**  
+1. Acute pain  
+2. Risk for infection  
+3. Fluid imbalance  
 
-**Supporting**
-- Symptom strongly correlated with Cushing’s Syndrome
-- Diagnostic test confirming suspicion
-- Clinical history aligned with typical onset
+#### **Take Actions**  
+1. Administer ketorolac 30mg IV  
+2. NPO + NG tube if vomiting persists  
+3. Schedule laparoscopic cholecystectomy  
+4. Monitor for s/s pancreatitis  
 
-**Concerning**
-- Sudden worsening or complications
-- Lab or vital abnormality needing action
-- Uncontrolled symptoms or secondary effects
+#### **Generated Solutions**  
+- **NPO status** → reduces gallbladder stimulation  
+- **Surgery** → definitive treatment  
 
-### Prioritizing Hypotheses
-1. Primary nursing diagnosis relevant to Cushing’s Syndrome
-2. Risk for complication or deterioration
-3. Secondary concern related to mental, physical, or social well-being
+#### **Evaluation Outcomes**  
+- Pain controlled pre-op  
+- No fever or jaundice develops  
+- Successful laparoscopic procedure  
 
-### Take Actions
-1. Administer prescribed medication or treatment
-2. Educate patient and/or caregiver about management
-3. Monitor condition closely through assessment or labs
-4. Collaborate with interdisciplinary team for comprehensive care
+---
 
-### Generated Solutions
-1. Medication given ⟶ symptom control ⟶ improved function
-2. Education ⟶ better self-care ⟶ reduced readmissions
-3. Close monitoring ⟶ early detection ⟶ timely intervention
-4. Team-based approach ⟶ holistic care ⟶ patient satisfaction
+### **11. Cushing's Syndrome**  
+#### **Recognizing Cues**  
+1. Moon face + buffalo hump  
+2. BP 160/92 mmHg  
+3. Random glucose 210 mg/dL  
+4. Thin extremities with central obesity  
+5. Striae on abdomen  
 
-### Evaluation Outcomes
-- Stabilization or improvement of signs and symptoms
-- Patient demonstrates knowledge of care
-- Lab/vital signs within expected range
-- Reduction in risk of complication or recurrence
+#### **Disease Process / Risk Factors**  
+- **Pathophysiology**: Chronic cortisol excess → catabolic state + metabolic derangements  
+- **Risk Factors**: Prolonged steroid use, pituitary adenoma  
+
+#### **Analyzing Cues**  
+**Supporting**:  
+1. Characteristic fat redistribution  
+2. Hyperglycemia (cortisol effect)  
+
+**Concerning**:  
+1. Hypokalemia (K+ 2.9 mEq/L) → arrhythmia risk  
+2. Osteoporosis → fracture risk  
+
+#### **Prioritizing Hypotheses**  
+1. Fluid/electrolyte imbalance  
+2. Risk for injury  
+3. Body image disturbance  
+
+#### **Take Actions**  
+1. Monitor for signs of adrenal crisis  
+2. Implement fall precautions  
+3. Administer potassium supplements  
+4. Teach skin integrity monitoring  
+
+#### **Generated Solutions**  
+- **K+ replacement** → prevents cardiac dysrhythmias  
+- **Fall protocol** → reduces fracture risk  
+
+#### **Evaluation Outcomes**  
+- K+ normalizes to 3.8 mEq/L  
+- No falls during hospitalization  
+- Verbalizes coping strategies  
 
 ---
 
